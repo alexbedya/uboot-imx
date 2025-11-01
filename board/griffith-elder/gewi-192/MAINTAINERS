@@ -1,0 +1,6 @@
+GEWI-192 BOARD
+M:	Alexander Bedya <alex@hardprog.com>
+S:	Maintained
+F:	board/griffith-elder/gewi-192
+F:	include/configs/gewi-192.h
+F:	configs/gewi-192_defconfig
