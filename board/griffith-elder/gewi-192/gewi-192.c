@@ -682,7 +682,7 @@ int checkboard(void)
 		break;
 	}
 
-	printf("Board: i.MX7D SABRESD Rev%s in %s mode\n", revname, mode);
+	printf("Board: GEWI-192 Rev%s in %s mode\n", revname, mode);
 
 	return 0;
 }
