@@ -1,15 +1,15 @@
-if TARGET_GEWI-192
+if TARGET_GEWI192
 
 config SYS_BOARD
-	default "gewi-192"
+	default "gewi192"
 
 config SYS_VENDOR
 	default "griffith-elder"
 
 config SYS_CONFIG_NAME
-	default "gewi-192"
+	default "gewi192"
 
 config IMX_CONFIG
-	default "board/griffith-elder/gewi-192/imximage.cfg"
+	default "board/griffith-elder/gewi192/imximage.cfg"
 
 endif

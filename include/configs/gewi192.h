@@ -3,7 +3,7 @@
  * Copyright (C) 2015 Freescale Semiconductor, Inc.
  * Copyright 2017-2018 NXP
  *
- * Configuration settings for the Freescale i.MX7D SABRESD board.
+ * Configuration settings for the Griffith-Elder GEWI192 board.
  */
 
 #ifndef __MX7D_SABRESD_CONFIG_H
