@@ -165,7 +165,7 @@
 		"fi;\0" \
 		"findfdt="\
 			"if test $fdt_file = undefined; then " \
-				"setenv fdt_file imx7d-sdb.dtb; " \
+				"setenv fdt_file imx7d-gewi192.dtb; " \
 			"fi;\0" \
 
 #endif
